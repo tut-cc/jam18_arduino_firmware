@@ -19,3 +19,6 @@ https://www.arduino.cc/en/Guide/Libraries#toc4
 1. 受信信号に当てはまるパターンをswitch文で探す
 1. 該当する操作をする．大体はモータの回転数をアップするとか，止めるとか
 1. くりかえす．
+
+
+ロボットの概要は http://www.jp3cyc.jp/2018/review_of_robot_jam18/ をどうぞ
